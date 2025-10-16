@@ -4,7 +4,7 @@ A compilation of the R studio code used for the statistical analysis and graph m
 # Table of Contents
 ## Experiment 1 
 Examining the differences in measurements of flowering and non-flowering M. sedifolia plants.
-Exp.1_Chlorophyll
+[- Examining differences in alternative soil nutrients](Exp.1_alternative_soil.R)
 
 ## Experiment 2
 Examining the effects of a fertilised experimental seed orchard on M. sedifolia.
